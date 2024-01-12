@@ -1,3 +1,6 @@
-installation local : dpkg – rpm
+
+
+installation distante : apt - yum
+
 paquet 1
 paquet 2
