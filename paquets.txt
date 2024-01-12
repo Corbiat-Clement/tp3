@@ -1,2 +1,3 @@
+installation local : dpkg – rpm
 paquet 1
 paquet 2
